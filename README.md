@@ -16,3 +16,6 @@ if / else → conditional logic
 
 print() → display results
 
+## status
+
+>This is a software test designed to validate knowledge in Python, focusing on input types, integers, conditional statements, basic mathematical operations, and the print function.
